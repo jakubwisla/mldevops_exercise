@@ -1,0 +1,42 @@
+{
+  "os": "Windows-10-10.0.19045-SP0",
+  "python": "3.11.4",
+  "startedAt": "2024-11-05T00:36:15.628074Z",
+  "program": "c:\\Users\\jakub\\Desktop\\SN\\lab3\\mldevops_exercise\\my_project.ipynb",
+  "git": {
+    "remote": "git@github.com:jakubwisla/mldevops_exercise.git",
+    "commit": "d869b14f78ec771dfe5293a987ee5051fde1db56"
+  },
+  "email": "jakubwisla23@gmail.com",
+  "root": "c:\\Users\\jakub\\Desktop\\SN\\lab3\\mldevops_exercise",
+  "host": "DESKTOP-95LJSVG",
+  "username": "jakub",
+  "executable": "c:\\Users\\jakub\\Desktop\\SN\\lab3\\mldevops_exercise\\mldevops\\Scripts\\python.exe",
+  "codePathLocal": "my_project.ipynb",
+  "cpu_count": 4,
+  "cpu_count_logical": 8,
+  "gpu": "NVIDIA GeForce GTX 1050",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "488527441920",
+      "used": "474096168960"
+    }
+  },
+  "memory": {
+    "total": "17054191616"
+  },
+  "cpu": {
+    "count": 4,
+    "countLogical": 8
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce GTX 1050",
+      "memoryTotal": "3221225472",
+      "cudaCores": 768,
+      "architecture": "Pascal"
+    }
+  ],
+  "cudaVersion": "12.4"
+}
